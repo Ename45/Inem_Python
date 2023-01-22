@@ -1,9 +1,3 @@
-#Ask if user wants to play
-#condition to continue to quiz or end
-#create a container to store user score
-#Ask questions and store correct or incorrect scores
-#show users score with percentage
-
 states_and_capitals = [
     {"state": "Abia", "capital": "Umauhia"},
     {"state": "Adamawa", "capital": "Yola"},
